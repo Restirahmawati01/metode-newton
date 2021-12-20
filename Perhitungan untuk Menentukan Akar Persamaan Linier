@@ -1,0 +1,18 @@
+Aplikasi perhitungan untuk menentukan akar persamaan linier dengan metode Newton-Raphson.
+
+Ketentuan:
+Perhitungan dapat dilakukan ketika soal memenuhi syarat-syarat berikut.
+1. Terdapat akar persamaan liniernya
+2. Terdapat nilai awalnya
+3. Terdapat nilai toleransi galat relatif x
+
+
+Contoh soal:
+1. Hitunglah akar f(x) = e**x - 5x*2 dengan metode Newton. Jika diketahui toleransi galat relatif x = 0.00001. dan tebakan awal x0 = 0.5
+
+2. Tentukan salah satu  akar persamaan linier x*5 + 2x*@ - 4 dengan metode Newton Raphson, jika diketahui nilai awal x0 = 1 dan toleransi galat relatif x adalah 0.0001.
+
+Tips penulisan fungsi dan turunan
+-Gunakan titik (.) untuk penggunaan koma pada semua inputan
+-Gunakan simbol bintang (*) untuk perkalian
+-Gunakan simbol bintang 2 (**) untuk bilangan pangkat
